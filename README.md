@@ -1,4 +1,4 @@
-## Web Developer.
+## Web Developer Junior.
 <div align="center">
   <a href="https://github.com/dairongranada">
   <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=dairongranada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,8 +20,7 @@
   <a href = "https://www.facebook.com/DAIRON.CG/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"   ></a>
   <a href="https://instagram.com/dairongranadaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:dairongranada21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
+   
    ![Snake animation](https://github.com/dairongranada/dairongranada/blob/output/github-contribution-grid-snake.svg)
 </div>
   
