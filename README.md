@@ -15,9 +15,7 @@
   <img align="center" alt="Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
   
-  <a href="https://github.com/dairongranada/StyleTatto"><img align="right" alt="Rafa-pic" height="120" style="border-radius:150px;" src="images/StyleTatto.jpg"></a>
-</div>
-  
+
  ##
   
  <div> 
