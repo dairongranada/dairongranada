@@ -1,7 +1,5 @@
 <div>
-  <a  style="margin-top: 4rem font-weight: 900 margin: 2rem" href="https://portafolio-dairongranada.netlify.app">
-    ## P O R T A F O L I O  
-  </a>
+  <a href="https://portafolio-dairongranada.netlify.app"><h1 color:#fff >P O R T A F O L I O </h1></a>
   <div align="center">
     <a href="https://portafolio-dairongranada.netlify.app">
     <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=dairongranada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
