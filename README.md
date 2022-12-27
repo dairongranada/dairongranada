@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <a href="https://portafolio-dairongranada.netlify.app">
   ## P O R T A F O L I O  
   <div align="center">
