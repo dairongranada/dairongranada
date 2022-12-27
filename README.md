@@ -1,5 +1,5 @@
 <div>
-  <a  style="margin-top: 4rem;font-weight: 900;margin: 2rem;" href="https://portafolio-dairongranada.netlify.app">
+  <a  style="margin-top: 4rem font-weight: 900 margin: 2rem" href="https://portafolio-dairongranada.netlify.app">
     ## P O R T A F O L I O  
   </a>
   <div align="center">
