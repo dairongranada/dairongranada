@@ -61,11 +61,9 @@ También tengo habilidades en el manejo de bases de datos como SQL Server y MySQ
   
  
  ##
-  <h2 align="center">🚀 Contacto</h2>
+<h2 align="center">🚀 Contacto</h2>
 
-
-
- <div> 
+<div align="center">
   <a href="https://instagram.com/dairongranadaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:dairongranada21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
