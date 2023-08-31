@@ -1,5 +1,6 @@
 <p><b>Dairon Granada</b></p>
-Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como JavaScript, jQuery y Python. También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django y en el manejo de consolas Linux. Estoy emocionado de seguir aprendiendo y creciendo en mi carrera como programador.
+Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como JavaScript, jQuery y Python. 
+También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django y en el manejo de consolas Linux.
 
 <hr>
 
