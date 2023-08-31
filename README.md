@@ -1,4 +1,5 @@
-<p><b>Dairon Granada</b></p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(0,170,255)}{\textsf{Dairon Granada}}$</h1>
+
 Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como JavaScript, jQuery y Python. </br></br>
 También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django y en el manejo de consolas Linux.
 
@@ -64,8 +65,7 @@ También tengo habilidades en el manejo de bases de datos como SQL Server y MySQ
  <div> 
   <a href="https://instagram.com/dairongranadaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:dairongranada21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-   ![Snake animation](https://github.com/dairongranada/dairongranada/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+ </div>
   
   
