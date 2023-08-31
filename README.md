@@ -1,5 +1,9 @@
-👤Dairon Granada
+</br> </br> </br>
+<p><b>Dairon Granada</b></p>
 Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como JavaScript, jQuery y Python. También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django y en el manejo de consolas Linux. Estoy emocionado de seguir aprendiendo y creciendo en mi carrera como programador.
+
+<hr>
+
 
 <div style='margin-left: 4rem' >
   <a href="https://portafolio-dairongranada.netlify.app"><h3 color:#fff >Dairon Granada  👉🏻 <a href='https://dairongranada.github.io/ProfileDG/'>mira mi portafolio </a>  </h3></a>
