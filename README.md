@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy $\normalsize\color{rgb(0,170,255)}{\textsf{Dairon Granada}}$</h1>
 
-Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como JavaScript, jQuery y Python. </br></br>
+Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como JavaScript (React),(Jquery),Python (Django),(Flask). </br></br>
 También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django y en el manejo de consolas Linux.
 
 <div style='margin-left: 4rem' >
