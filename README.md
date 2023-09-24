@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy Dairon Granada$</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy Dairon Granada</h1>
 
 Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: 
 <b> JavaScript </b> (React),(Jquery),
