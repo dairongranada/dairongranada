@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/dairongranada">
-    <img height="160em" src="https://avatars.githubusercontent.com/u/93607018?v=4" style="border: 5px solid #4CAF50; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+    <img height="160em" src="https://avatars.githubusercontent.com/u/93607018?v=4"  alt="Dairon Granada"/>
   </a>
 </div>
 
