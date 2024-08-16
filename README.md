@@ -1,5 +1,14 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy Dairon Granada</h1>
 
+<div align="center">
+  <a href="https://github.com/dairongranada">
+    <img height="160em" src="https://avatars.githubusercontent.com/u/93607018?v=4" style="border: 5px solid #4CAF50; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  </a>
+</div>
+
+
+</br>
+
 Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: 
 <b> JavaScript </b> (React),(Jquery),
 <b> Python </b> (Django),(Flask). </br></br>
