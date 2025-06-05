@@ -1,10 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> ¡Hola! Soy Dairon Granada, Desarrollador Web Junior</h1>
 
-<div align="center">
-  <a href="https://github.com/dairongranada">
-    <img height="160em" src="https://avatars.githubusercontent.com/u/93607018?v=4"  alt="Dairon Granada"/>
-  </a>
-</div>
+
 
 
 </br>
